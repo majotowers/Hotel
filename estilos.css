@@ -1,0 +1,9 @@
+body{background-color: #736C65}
+table{background-color: #FEFDF5;width:1000px;margin-left: auto;margin-right:auto;}
+td,th{border-style: solid;border-color: black;}
+.Titulo{font-size: 100px;font family:"Arial Black";}
+.Vista{width: 1200px;height: 910px}
+.Lugares{width: 300px;height: 300px}
+.Titulo{font-size: 100px;font-family:"Bernard MT Condensed";}
+.Vista{font-size: 40px;font-family:"Bell MT";}
+.Cerca{font-size:40px;font-family:"Eras Light ITC";}
