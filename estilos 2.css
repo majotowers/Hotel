@@ -1,0 +1,10 @@
+body{background-color: #736C65}
+table{background-color: #FEFDF5;width:100px;margin-left: auto;margin-right:auto;}
+td,th{border-style: solid;border-color: royalblue;}
+.Titulo{font-size: 100px;font family:"Cooper Black";}
+.texto{font-size: 40px;font-family:"Bell MT";}
+.Vista{width: 1600px;height: 600px}
+.Lugares{width: 400px;height: 400px}
+.Titulo{font-size: 100px;font-family:"Bernard MT Condensed";}
+.Vista{font-size: 40px;font-family:"Bell MT";}
+.Cerca{font-size:40px;font-family:"Eras Light ITC";}
